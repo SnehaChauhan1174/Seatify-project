@@ -5,3 +5,4 @@ Movie Listings: Browse available movies and showtimes.
 Seat Selection: Real-time seat availability and selection.
 Booking Management: Efficient management of bookings and user data with SQL.
 Payment Processing: Simulated payment gateway for booking confirmation.
+https://github.com/SnehaChauhan1174/Seatify-project.git
